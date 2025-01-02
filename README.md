@@ -1,6 +1,6 @@
 # MSc_UAL-Creative-Computing-Project
 
-## Broken Heart Emoji Visulization with Raindrop Effects
+### Broken Heart Emoji Visulization with Raindrop Effects (p5.js+AI)
 
 **Student Name (Id)**: Jiayi Qian and (id) 24004306
 
