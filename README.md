@@ -3,6 +3,8 @@
 
 **Project Images** [2-4 images]  
 
+<img width="1623" alt="Sketch 1" src="https://github.com/user-attachments/assets/ee4b196b-fdb7-43c0-ba07-5ab139da007e" />
+
 
 ## Always ask why? Is this the best solution?
 The answer is certainly no from my point of view, so I started to revamp it begin at the December, because of the passion.
