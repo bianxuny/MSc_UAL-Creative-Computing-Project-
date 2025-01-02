@@ -1,10 +1,16 @@
 # MSc_UAL-Creative-Computing-Project
 
+## Broken Heart Emoji Visulization with Raindrop Effects
 
-**Project Images** [2-4 images]  
+**Student Name (Id)**: Jiayi Qian and (id) 24004306
+
+**Sketch Link**: 
 
 <img width="1623" alt="Sketch 1" src="https://github.com/user-attachments/assets/ee4b196b-fdb7-43c0-ba07-5ab139da007e" />
 
+[View Code 1](https://editor.p5js.org/bianxuny/sketches/tncYd8SmJ)
+
+[View Code 2](https://editor.p5js.org/bianxuny/sketches/xDozOUwpF)
 
 ## Always ask why? Is this the best solution?
 The answer is certainly no from my point of view, so I started to revamp it begin at the December, because of the passion.
