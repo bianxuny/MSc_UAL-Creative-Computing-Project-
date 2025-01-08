@@ -12,6 +12,9 @@
 
 [View Code 2](https://editor.p5js.org/bianxuny/sketches/xDozOUwpF)
 
+![Avator design process](https://github.com/user-attachments/assets/6ece0500-b0ca-400a-b03c-d1463563cf8e)
+
+
 ## Always ask why? Is this the best solution?
 The answer is certainly no from my point of view, so I started to revamp it begin at the December, because of the passion.
 
