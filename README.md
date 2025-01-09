@@ -4,6 +4,33 @@
 
 **Student Name (Id)**: Jiayi Qian and (id) 24004306
 
+**Project Description**: 
+ - **Key Words**: Emotion Visulization, Psychotherapy, Generative Art
+
+**Project Background**:
+
+The inspiration draws from the song [Rain](https://music.163.com/song?id=1322041120&userid=1616965381) , which deeply resonated with me. The lyrics,"You say that you love me, did you realyy mean that? I'm not sure, but I think you do. All we do is fight fight fight, till the night time tired." depict the conflicts and uncertainties in a romantic relationship.
+
+The core of this project revolves around a broken heart reflecting on moments of conflict (“FIGHT FIGHT FIGHT”) and the imagery of rain (“RAIN RAIN RAIN”). As time passes, the protagonist repeatedly questions, “Does she still love me?” Through emotional visualization, the project designs a dynamic character whose form and expressions change along with the lyrics, illustrating the ups and downs of the user’s emotional state. This work aims to provide emotional healing and encourage users to confront their inner feelings directly.
+
+**Project Objectives**:
+
+- **Emotional Visualization**
+
+The project aims to vividly express emotional fluctuations by integrating lyrics, visual effects (e.g., raindrops, text), and the dynamic transformations of a virtual character. It seeks to capture the essence of emotional experiences, particularly those tied to negative emotions in romantic relationships.
+
+- **Facilitating Self-Healing**
+
+By designing an emotionally interactive interface, the project helps users face and release hidden negative emotions. This is especially beneficial for emotional recovery after a breakup, offering users a visual tool for self-healing.
+
+- **Fusion of Technology and Design**
+
+The project leverages newly acquired coding skills and 2D/3D visualization techniques to translate abstract emotional concepts into an interactive visual experience. This is not only a personal creative endeavor but also a practical application of technical skills learned throughout the course.
+
+- **Potential for Real-World Application**
+
+With further development and refinement, this project could evolve into the user interface for an emotional therapy application. Such an app would aim to alleviate negative emotions arising from relationship challenges, making a positive impact on users’ real lives.
+
 **Sketch Link**: 
 
 <img width="1623" alt="Sketch 1" src="https://github.com/user-attachments/assets/ee4b196b-fdb7-43c0-ba07-5ab139da007e" />
