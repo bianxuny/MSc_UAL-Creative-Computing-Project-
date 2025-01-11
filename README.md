@@ -59,6 +59,9 @@ Finally, I found that this action can be successfully implemented on the source 
 
 ## In my conceptualiztion, what specifically could this turn into?
 
+I firmly believe that this project can utilize AI and other technologies to achieve the synthesis of various emoji packs or interactions between animated characters and lyrics. If I have time, I will try to prototype and realize it.
+
+
 
 <img width="506" alt="截屏2025-01-11 19 26 05" src="https://github.com/user-attachments/assets/d0f77e0f-996a-4e1e-aeb6-d10a4ada069f" />
 
