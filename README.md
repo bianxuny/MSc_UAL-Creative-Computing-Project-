@@ -1,4 +1,10 @@
-# MSc_UAL-Creative-Computing-Project
+# MSc_UAL-Creative-Computing-2024-2025
+
+### Rhythm Record(Touchdesigner+Arduino)
+
+![Rhythm Record_Compress 1](https://github.com/user-attachments/assets/19312fe9-a98c-4b83-a3e6-7f73cb0ea5ce)
+
+![Rhythm Record_Compress 2](https://github.com/user-attachments/assets/2849675b-da4c-4bdc-8194-fc5f459268ae)
 
 ### Broken Heart Emoji Visulization with Raindrop Effects (p5.js+AI)
 
